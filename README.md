@@ -72,8 +72,8 @@ Hierarquia: `Transporte → TransporteTerrestre → Caminhao` e `Transporte → 
 Requisitos: **JDK** instalado, com `java` e `javac` disponíveis no PATH, e Git para clonar o repositório. O projeto utiliza a biblioteca padrão do Java, sem dependências externas.
 
 ```bash
-git clone https://github.com/FelipeAugust0/projeto-2.git
-cd projeto-2
+git clone https://github.com/FelipeAugust0/sistema-logistica-java.git
+cd sistema-logistica-java
 ```
 
 Compile os arquivos a partir da raiz do projeto:
